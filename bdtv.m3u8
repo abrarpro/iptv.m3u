@@ -1,0 +1,428 @@
+#EXTM3U
+#EXTINF:-1 group-title="1. News TV",ATN News
+https://playztv-apps.pages.dev/atn-news/index.m3u8
+#EXTINF:-1 group-title="1. News TV",DBC TV
+https://playztv-apps.pages.dev/dbc-news/index.m3u8
+#EXTINF:-1 group-title="1. News TV",news 24
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+#EXTINF:-1 group-title="1. News TV",Zolly news
+http://208.110.73.114:80/stream/146/index.m3u8
+#EXTINF:-1 group-title="1. News TV",DBC News
+http://bd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 group-title="1. News TV",NEWS 24 HD
+http://bd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:-1 group-title="1. News TV",JagoNews24 TV
+http://bd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1 group-title="1. News TV",Jamuna News
+http://172.16.29.250/hls/jamuna.m3u8
+#EXTINF:-1 group-title="1. News TV",CNN INTL Live
+http://175.107.244.52:4455/play/a020/index.m3u8
+#EXTINF:-1 group-title="2. Sports TV",Being Sports
+https://6iptv.s3.us-east-1.amazonaws.com/bein1/720p/manifest.m3u8
+#EXTINF:-1 group-title="2. Sports TV",Being Sports S2
+https://6iptv.s3.us-east-1.amazonaws.com/bein2/720p/manifest.m3u8
+#EXTINF:-1 group-title="2. Sports TV",Tsports
+https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8
+#EXTINF:-1 group-title="2. Sports TV",Sony Sports 1
+https://s3.itcnbd.live/server-12/stream/NzQ.m3u8
+#EXTINF:-1 group-title="2. Sports TV",Willow TV
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="2. Sports TV",Duronto TV
+https://rangdhonulive.samiulislamabhi.workers.dev/duRANTo/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="2. Sports TV",TSports S2
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8
+#EXTINF:-1 group-title="2. Sports TV",Willow TV S3
+https://tvsen5.aynaott.com/willowhd/index.m3u8#skym3u.dev
+#EXTINF:-1 group-title="2. Sports TV",Tsports S3
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8
+#EXTINF:-1 group-title="2. Sports TV",PTV Sports
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWrs/1514084.ts
+#EXTINF:-1 group-title="2. Sports TV",Fifa japan
+http://redlabmcdn.s.llnw1.net/nv02/ryowa7hd/index.m3u8
+#EXTINF:-1 group-title="2. Sports TV",World cup
+http://172.16.29.242:8080/fnet/live1/index.m3u8
+#EXTINF:-1 group-title="2. Sports TV",India World Cup
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Channel I
+https://playztv-apps.pages.dev/channel-i/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Ananda TV
+https://playztv-apps.pages.dev/ananda-tv/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Asian TV
+https://playztv-apps.pages.dev/asian-tv/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Atn TV
+https://playztv-apps.pages.dev/atn-bangla/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Bijoy TV
+https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Boishaki TV
+https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Desh TV
+https://playztv-apps.pages.dev/desh-tv/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Ekattor TV
+https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Jamuna TV
+https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Maasranga TV
+https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",NTV
+https://playztv-apps.pages.dev/ntv/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",MY TV
+https://playztv-apps.pages.dev/my-tv/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Tampad
+https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u
+#EXTINF:-1 group-title="3. Entertainment TV",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",BTV Chattogram
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",BTV National
+https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Channel 24
+https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Equasy TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Deptoo TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Nexus TV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Somoy TV
+https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Maasranga
+http://172.16.29.250/hls/masranga.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Independent TV
+http://172.16.29.250/hls/indepen.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Shomoy TV
+http://172.16.29.250/hls/somoy.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",GTV HD
+http://172.16.29.250/hls/Gazi-TV.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Nexus TV
+http://172.16.29.250/hls/nexus.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Magicbangla TV jago
+https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",I [BD]
+http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Anando TV
+http://bd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",ASIAN TV
+http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",ATN Bangla
+http://bd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Channel 24
+http://bd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Deshe Bideshe
+http://bd.jagobd.com:1931/live-orgin/deshebideshe.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Deshi TV
+http://208.86.19.13:81/514.stream/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Independent
+http://bd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Jamuna TV
+http://bd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",BOISHAKHI TV
+http://bd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",DeeptoTV
+https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",MY TV
+http://bd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",BANGLA TV
+http://bd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",RTV(BD)
+https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",RTV(Jagobd)
+http://bd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",SATV(Jagobd)
+http://bd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",ATN Music(Jagobd)
+http://bd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Maasranga
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 group-title="3. Entertainment TV",মিশন টিভি
+http://208.86.19.13:81/502.stream/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Bবাংলা টিভি
+http://208.86.19.13:81/504.stream/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",আমার বাংলা
+http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Iqra Bangla
+http://208.86.19.13:81/507.stream/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",GaziTV
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",ATN Islamic TV
+http://bd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Peace TV ENG
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",24 hrs tv
+http://178.128.60.200:80/hls/stream2.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Nat Geo Bangla
+http://172.16.29.250/hls/ngohd.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Nat Geo Wild
+http://172.16.29.250/hls/wild.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Discovery Bangla HD
+http://172.16.29.250/hls/discovery.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Discovery Science
+http://172.16.29.250/hls/dis-science.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",BBC Earth HD
+http://172.16.29.250/hls/bbcearth.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Animal Planet HD
+http://172.16.29.250/hls/animalplanent.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Travel XP
+http://172.16.29.250/hls/travelxp.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Discovery Channel
+http://190.83.119.67:8000/play/a0tb/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Discovery World HD
+http://190.83.119.67:8000/play/a0tc/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Discovery ID HD
+http://190.83.119.67:8000/play/a0tf/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",NATIONAL GEOGRAPHIC HD
+http://190.83.119.67:8000/play/a0t8/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",Animal Planet HD
+http://190.83.119.67:8000/play/a0sb/index.m3u8
+#EXTINF:-1 group-title="3. Entertainment TV",TLC HD
+http://172.16.29.250/hls/tlc.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",Hungama TV
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="4. Cartoon TV",Disney JR
+http://190.83.119.67:8000/play/a0pb/index.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",Nick Jr.
+http://190.83.119.67:8000/play/a0p9/index.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",Nick Jr Live
+http://175.107.244.52:4455/play/a03l/index.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",Pogo - Rs 4.25
+http://175.107.244.52:4455/play/a03i/index.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",Nick
+http://172.16.29.250/hls/nick.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",Pogo
+http://172.16.29.250/hls/pogo.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",Discovery Kids
+http://172.16.29.250/hls/dis-kid.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",Cartoon Network
+http://172.16.29.250/hls/cn.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",0 Kids
+http://51.210.199.11/hls/stream.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",0 Kids Movies
+http://51.210.199.12/hls/stream.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",hungama tv- Live
+http://175.107.244.52:4455/play/a03d/index.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",nick HD+ Live
+http://175.107.244.52:4455/play/a00w/index.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",Discovery HD Live
+http://175.107.244.52:4455/play/a01v/index.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",Disney Chan- Live
+http://175.107.244.52:4455/play/a03e/index.m3u8
+#EXTINF:-1 group-title="4. Cartoon TV",Disney Live
+http://175.107.244.52:4455/play/a03g/index.m3u8
+#EXTINF:-1 group-title="5. BackUp TV",Jamuna TV Server 2
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+#EXTINF:-1 group-title="5. BackUp TV",ATN TV UK
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 group-title="5. BackUp TV",NTV 2
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 group-title="5. BackUp TV",Ekushay TV(BDIX)
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 group-title="5. BackUp TV",ATN Bangla UK
+http://87.212.248.44:60230/play/a05g/index.m3u8
+#EXTINF:-1 group-title="6. New Channel TV",Show Time HD
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="7. Other TV",NAT Geo Wild HD
+http://175.107.244.52:4455/play/a01o/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Jalsha TV
+https://dish.porosh.com.bd/hls/jalshabangla.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Sony Aath
+http://172.16.29.250/hls/Sony_Aath.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Star Jalsha HD
+http://172.16.29.250/hls/starjalsha.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Zee Bangla HD
+http://172.16.29.250/hls/zeebanglahd.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Colors Bangla HD
+http://172.16.29.250/hls/colorsbangla.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Zee Bangla Cinema
+http://172.16.29.250/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Colors Bangla Cinema
+http://172.16.29.250/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Sun Bangla
+http://172.16.29.250/hls/sunbangla.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Jalsha Movies HD
+http://172.16.29.250/hls/jalshamovies.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Zee Bangla HD
+https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=800&e=.m3u8
+#EXTINF:-1 group-title="8. Indian TV",ENTER10 MOVIES
+https://tv.freeseries.eu.org/live.php?c=Enterr_10&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Khusboo TV
+https://tv.freeseries.eu.org/live.php?c=Khusboo_TV&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="8. Indian TV",STAR JALSHA ABC
+http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862988&extension=ts&play_token=VRW07gXmnZ
+#EXTINF:-1 group-title="8. Indian TV",MAASRANGA TV official
+http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Channel S UK
+http://208.86.19.13:81/519.stream/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",NANDAN Official
+https://web.nandansyst.com/hls/nandan_mid/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Sananda Bangla
+http://livetvbd.ddns.net/tmp_hls/sananda/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Star Plus HD
+http://172.16.29.250/hls/starplus.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Sony HD
+http://172.16.29.250/hls/sonyen.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Colors HD
+http://172.16.29.250/hls/colore-tv-hd.m3u8
+#EXTINF:-1 group-title="8. Indian TV",&Pictures HD
+http://172.16.29.250/hls/andpictures.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Zee Cinema HD
+http://172.16.29.250/hls/zeecinemahd.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Star Gold HD
+http://172.16.29.250/hls/stargold.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Star Gold2
+http://172.16.29.250/hls/stargold2hd.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Sony Max HD
+http://172.16.29.250/hls/sony-maxhd.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Colors Cineplex HD
+http://172.16.29.250/hls/colorscineplex.m3u8
+#EXTINF:-1 group-title="8. Indian TV",UTV Action
+http://172.16.29.250/hls/utvaction.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Zoom
+http://172.16.29.250/hls/zoom.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Bindaas
+http://172.16.29.250/hls/bindass.m3u8
+#EXTINF:-1 group-title="8. Indian TV",MN+ HD
+http://172.16.29.250/hls/mn+.m3u8
+#EXTINF:-1 group-title="8. Indian TV",MNX HD
+http://172.16.29.250/hls/mnx-hd.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Star World HD
+http://172.16.29.250/hls/star-worldhd.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Sony Pix HD
+http://172.16.29.250/hls/sonypixhd.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Star Movies HD
+http://172.16.29.250/hls/starmovies.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Movies Now HD
+http://172.16.29.250/hls/movies-now.m3u8
+#EXTINF:-1 group-title="8. Indian TV",MTV INDIA
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",Star Gold SelHD Live
+http://175.107.244.52:4455/play/a00p/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Star Plus HD Live
+http://175.107.244.52:4455/play/a00y/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",SAHARA ONE (IN)
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",Colors HD
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",Star Gold
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",ZEE ANMOL CINEMA
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",MASTI
+http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",Zee Cinema HD(BD)
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",UTV Action(BD)
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",Zee TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",E24 (IN)
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",MTV BEATS HD (IN)
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",B4U MOVIES (UK)
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",UTV ACTION (IN)
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",MTV 90s
+http://85.17.17.249/mtv_rocks/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Star Bharat HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",STAR MOV HD
+http://175.107.244.52:4455/play/a01s/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",TLC HD
+http://175.107.244.52:4455/play/a01p/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",TLC
+http://190.83.119.67:8000/play/a0sd/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",History HD
+http://190.83.119.67:8000/play/a0px/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Star Channel HD
+http://190.83.119.67:8000/play/a0si/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Sony
+http://190.83.119.67:8000/play/a0s5/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Sony HD
+http://190.83.119.67:8000/play/a0sk/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",StarMov S HD Live
+http://175.107.244.52:4455/play/a01t/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Urdu 1
+http://175.107.244.52:4455/play/a06l/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",ZEE Cafe HD
+http://175.107.244.52:4455/play/a01q/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",ZEE TV HD Live
+http://175.107.244.52:4455/play/a00z/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",HISTORY TV18 HD Live
+http://175.107.244.52:4455/play/a00o/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",PIX HD Live
+http://175.107.244.52:4455/play/a00r/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Peace TV English HD
+http://175.107.244.52:4455/play/a06m/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Peace TV Urdu HD
+http://175.107.244.52:4455/play/a06n/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Romedy NOW
+http://175.107.244.52:4455/play/a026/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",SET HD Live
+http://175.107.244.52:4455/play/a012/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",SONY MAX
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",ZEE CINEMA HD
+http://180.178.188.152:8000/play/a00z
+#EXTINF:-1 group-title="8. Indian TV",Star GOLD HD
+http://180.178.188.152:8000/play/a012
+#EXTINF:-1 group-title="8. Indian TV",Star Gold Sel HD
+http://180.178.188.152:8000/play/a014
+#EXTINF:-1 group-title="8. Indian TV",&tv HD
+http://180.178.188.152:8000/play/a01u
+#EXTINF:-1 group-title="8. Indian TV",Star Gold 2
+http://180.178.188.152:8000/play/a01q
+#EXTINF:-1 group-title="8. Indian TV",ZEE ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",SONY
+http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",DREAMZ
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",GOLDMINES
+http://208.86.19.13:81/7211.stream/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",ZING
+http://208.86.19.13:81/634.stream/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",COLOR
+http://103.72.179.30:1935/GECHind1/COLORS.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="8. Indian TV",STAR PLUS
+http://103.72.179.30:1935/GECHind1/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="8. Indian TV",My Kidz
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",&PRIVE HD Live
+http://175.107.244.52:4455/play/a00x/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",&pictures HD Live
+http://175.107.244.52:4455/play/a00s/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",ANIMAL PLAN HD Live
+http://175.107.244.52:4455/play/a00m/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Colors HD Live
+http://175.107.244.52:4455/play/a010/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Star gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/playlist.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",STAR GOLD Live
+http://175.107.244.52:4455/play/a00n/index.m3u8
+#EXTINF:-1 group-title="8. Indian TV",MTV BEATES HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",Sony TV Live
+http://103.72.179.30:1935/GECHind1/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="8. Indian TV",Star Gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="8. Indian TV",&pictures HD
+http://180.178.188.152:8000/play/a017
+#EXTINF:-1 group-title="8. Indian TV",B4U MOVIES
+http://208.86.19.13:81/636.stream/index.m3u8
+```[cite: 5, 6, 7, 8, 9, 10]
