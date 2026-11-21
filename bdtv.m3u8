@@ -1,8 +1,9 @@
 #EXTM3U
 
-# ==========================================
+# ==================================================
 # 1. NEWS TV
-# ==========================================
+# Last Update: Sunday, November 22, 2026
+# ==================================================
 
 #EXTINF:-1 group-title="News TV",ATN News
 https://playztv-apps.pages.dev/atn-news/index.m3u8
@@ -16,6 +17,9 @@ https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
 #EXTINF:-1 group-title="News TV",Jamuna TV
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 
+#EXTINF:-1 group-title="News TV",Jamuna TV S2
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+
 #EXTINF:-1 group-title="News TV",Channel 24
 https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8
 
@@ -28,10 +32,19 @@ https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 #EXTINF:-1 group-title="News TV",Zolly News
 http://208.110.73.114:80/stream/146/index.m3u8
 
+#EXTINF:-1 group-title="News TV",Independent TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8
 
-# ==========================================
+#EXTINF:-1 group-title="News TV",News 21 Bangla
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+
+#EXTINF:-1 group-title="News TV",Matribhumi TV
+http://live.playmax.live/matribhumi/index.m3u8
+
+
+# ==================================================
 # 2. SPORTS TV
-# ==========================================
+# ==================================================
 
 #EXTINF:-1 group-title="Sports TV",BeIN Sports 1
 https://6iptv.s3.us-east-1.amazonaws.com/bein1/720p/manifest.m3u8
@@ -42,19 +55,28 @@ https://6iptv.s3.us-east-1.amazonaws.com/bein2/720p/manifest.m3u8
 #EXTINF:-1 group-title="Sports TV",T Sports
 https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8
 
+#EXTINF:-1 group-title="Sports TV",T Sports S2
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8
+
+#EXTINF:-1 group-title="Sports TV",T Sports S3
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8
+
 #EXTINF:-1 group-title="Sports TV",Sony Sports 1
 https://s3.itcnbd.live/server-12/stream/NzQ.m3u8
 
 #EXTINF:-1 group-title="Sports TV",Willow TV
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Sports TV",T Sports 2
-https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8
+#EXTINF:-1 group-title="Sports TV",Willow TV S2
+https://tvsen5.aynaott.com/willowhd/index.m3u8#skym3u.dev
+
+#EXTINF:-1 group-title="Sports TV",Sony Ten 3
+https://r2.amml.in/sony-ten-3-hd/live.m3u8
 
 
-# ==========================================
+# ==================================================
 # 3. ENTERTAINMENT TV
-# ==========================================
+# ==================================================
 
 #EXTINF:-1 group-title="Entertainment TV",Channel I
 https://playztv-apps.pages.dev/channel-i/index.m3u8
@@ -68,14 +90,23 @@ https://playztv-apps.pages.dev/asian-tv/index.m3u8
 #EXTINF:-1 group-title="Entertainment TV",ATN Bangla
 https://playztv-apps.pages.dev/atn-bangla/index.m3u8
 
+#EXTINF:-1 group-title="Entertainment TV",ATN Bangla UK
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Entertainment TV",Bijoy TV
 https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment TV",Boishakhi TV
 https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
 
+#EXTINF:-1 group-title="Entertainment TV",Boishakhi TV S2
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
 #EXTINF:-1 group-title="Entertainment TV",Desh TV
 https://playztv-apps.pages.dev/desh-tv/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Desh TV S2
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment TV",Maasranga TV
 https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
@@ -83,11 +114,29 @@ https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
 #EXTINF:-1 group-title="Entertainment TV",NTV
 https://playztv-apps.pages.dev/ntv/index.m3u8
 
+#EXTINF:-1 group-title="Entertainment TV",NTV 2
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",NTV S3
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+
 #EXTINF:-1 group-title="Entertainment TV",MY TV
 https://playztv-apps.pages.dev/my-tv/index.m3u8
 
+#EXTINF:-1 group-title="Entertainment TV",MY TV S2
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Entertainment TV",Bangla Vision
 https://tvsen5.aynaott.com/banglavision/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Bangla Vision S2
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",BTL TV
+https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment TV",BTV National
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
@@ -101,56 +150,114 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8
 #EXTINF:-1 group-title="Entertainment TV",Dipto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment TV",Jalsha Bangla
-https://dish.porosh.com.bd/hls/jalshabangla.m3u8
+#EXTINF:-1 group-title="Entertainment TV",Nexus TV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Equasy TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Tapmad
+https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u
 
 
-# ==========================================
+# ==================================================
 # 4. CARTOON TV
-# ==========================================
+# ==================================================
 
 #EXTINF:-1 group-title="Cartoon TV",Duronto TV
 https://rangdhonulive.samiulislamabhi.workers.dev/duRANTo/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Cartoon TV",Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 
-# ==========================================
+#EXTINF:-1 group-title="Cartoon TV",Sony Yay
+https://r2.amml.in/sony-yay/live.m3u8
+
+
+# ==================================================
 # 5. BACKUP TV
-# ==========================================
+# ==================================================
 
-#EXTINF:-1 group-title="BackUp TV",Jamuna TV Server 2
-https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
-
-#EXTINF:-1 group-title="BackUp TV",ATN Bangla UK
-https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="BackUp TV",Willow TV Server 2
+#EXTINF:-1 group-title="BackUp TV",Willow TV S3
 https://tvsen5.aynaott.com/willowhd/index.m3u8#skym3u.dev
 
+#EXTINF:-1 group-title="BackUp TV",Jamuna TV Backup
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 
-# ==========================================
+#EXTINF:-1 group-title="BackUp TV",Bangla Vision Backup
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+
+#EXTINF:-1 group-title="BackUp TV",Boishakhi TV Backup
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+#EXTINF:-1 group-title="BackUp TV",NTV Backup
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+
+
+# ==================================================
 # 6. NEW CHANNEL TV
-# ==========================================
+# ==================================================
 
-#EXTINF:-1 group-title="New Channel TV",Equasy TV
-https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
-
-#EXTINF:-1 group-title="New Channel TV",Nexus TV
-https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
+#EXTINF:-1 group-title="New Channel TV",Madina TV
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
 #EXTINF:-1 group-title="New Channel TV",Tampad
 https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u
 
 
-# ==========================================
+# ==================================================
 # 7. OTHER TV
-# ==========================================
+# ==================================================
 
-#EXTINF:-1 group-title="Other TV",NTV 2
-https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 group-title="Other TV",BTV
+https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 
 
-# ==========================================
+# ==================================================
 # 8. INDIAN TV
-# ==========================================
+# ==================================================
 
-#EXTINF:-1 group-title="Indian TV",Indian Channels - Add your stream here
+#EXTINF:-1 group-title="Indian TV",Star Jalsha
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Indian TV",Zee Bangla
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+
+#EXTINF:-1 group-title="Indian TV",Sony Aath
+http://27.124.71.27/Sony_Aath/index.m3u8
+
+#EXTINF:-1 group-title="Indian TV",Sony HD
+http://38.96.178.205/SONYHD/index.m3u8
+
+#EXTINF:-1 group-title="Indian TV",Sony Max
+https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
+
+#EXTINF:-1 group-title="Indian TV",Sony Max HD
+http://116.90.120.149:8000/play/a123/index.m3u8
+
+#EXTINF:-1 group-title="Indian TV",Colors APAC
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
+
+#EXTINF:-1 group-title="Indian TV",Colors Cineplex HD
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+
+#EXTINF:-1 group-title="Indian TV",Colors TV
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+
+#EXTINF:-1 group-title="Indian TV",Enter 10 Bangla
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 group-title="Indian TV",Shemaroo Josh
+https://cdn.pishow.tv/ott/live/337/master.m3u8
+
+#EXTINF:-1 group-title="Indian TV",Jalsha Bangla
+https://dish.porosh.com.bd/hls/jalshabangla.m3u8
+
+#EXTINF:-1 group-title="Indian TV",Zee Bangla HD
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
