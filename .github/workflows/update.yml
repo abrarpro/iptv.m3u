@@ -1,0 +1,31 @@
+name: Auto Combine M3U Playlists
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs automatically every 6 hours
+  workflow_dispatch:       # Lets you run it manually anytime
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Combine playlists
+        run: python combine.py
+
+      - name: Commit and push combined.m3u
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add combined.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update combined.m3u" && git push)
