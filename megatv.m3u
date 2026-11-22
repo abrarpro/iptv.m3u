@@ -1,25 +1,26 @@
+
 #EXTM3U
 
-#EXTINF:-1 group-title="NovaStream 8X",📁 Desi Channel
+#EXTINF:-1,Desi Channel
 https://raw.githubusercontent.com/abrarpro/iptv.m3u/refs/heads/main/Desi%20Channel.m3u8
 
-#EXTINF:-1 group-title="NovaStream 8X",📁 Cartoon TV
+#EXTINF:-1,Cartoon TV
 https://raw.githubusercontent.com/abrarpro/iptv.m3u/refs/heads/main/cartoon.m3u
 
-#EXTINF:-1 group-title="NovaStream 8X",📁 Channel X
+#EXTINF:-1,Channel X
 https://raw.githubusercontent.com/ahan443/FreeHunter/refs/heads/main/otherseller.m3u
 
-#EXTINF:-1 group-title="NovaStream 8X",📁 Channel X2
+#EXTINF:-1,Channel X2
 https://raw.githubusercontent.com/ahan443/FreeHunter/refs/heads/main/uyycbr.m3u
 
-#EXTINF:-1 group-title="NovaStream 8X",📁 Channel X3
+#EXTINF:-1,Channel X3
 https://raw.githubusercontent.com/ahan443/FreeHunter/refs/heads/main/171126.m3u
 
-#EXTINF:-1 group-title="NovaStream 8X",📁 Channel X4
+#EXTINF:-1,Channel X4
 https://raw.githubusercontent.com/ahan443/FreeHunter/refs/heads/main/161126.m3u
 
-#EXTINF:-1 group-title="NovaStream 8X",📁 OTT TV
+#EXTINF:-1,OTT TV
 https://raw.githubusercontent.com/ahan443/FreeHunter/refs/heads/main/12112026.m3u
 
-#EXTINF:-1 group-title="NovaStream 8X",📁 OPTV
+#EXTINF:-1,OPTV
 https://raw.githubusercontent.com/ahan443/FreeHunter/refs/heads/main/0611261.m3u
