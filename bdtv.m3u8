@@ -2,7 +2,7 @@
 
 # ==================================================
 # 1. NEWS TV
-# Last Update: Sunday, November 22, 2026
+# Last Update: Sunday, November 22, 2026  10pm
 # ==================================================
 
 #EXTINF:-1 group-title="News TV",ATN News
@@ -72,6 +72,9 @@ https://tvsen5.aynaott.com/willowhd/index.m3u8#skym3u.dev
 
 #EXTINF:-1 group-title="Sports TV",Sony Ten 3
 https://r2.amml.in/sony-ten-3-hd/live.m3u8
+
+#EXTINF:-1 group-title="Sports TV",A Sports
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9
 
 
 # ==================================================
@@ -180,6 +183,39 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 group-title="Entertainment TV",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Entertainment TV",NTV S4
+https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Desh TV S3
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Mohona TV
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Nexus TV 2
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Global TV S2
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Drama 24
+https://vods2.aynaott.com/gseriesDrama/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Asian TV S2
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",G Series
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",ION TV
+https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",ZB Cinemas
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",NRB HD TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+
 
 # ==================================================
 # 4. CARTOON TV
@@ -193,6 +229,9 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3
 
 #EXTINF:-1 group-title="Cartoon TV",Sony Yay
 https://r2.amml.in/sony-yay/live.m3u8
+
+#EXTINF:-1 group-title="Cartoon TV",Nick Bangla
+https://rangdhonulivetv.indiansserials.com/NICK/tracks-v1a1/mono.ts.m3u8
 
 
 # ==================================================
@@ -242,6 +281,8 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpubl
 #EXTINF:-1 group-title="Other TV",BTV
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 
+# FTP Playlist (not a channel): https://raw.githubusercontent.com/ahan443/FreeHunter/refs/heads/main/2211262.m3u
+
 
 # ==================================================
 # 8. INDIAN TV
@@ -288,6 +329,9 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 
 #EXTINF:-1 group-title="Indian TV",Enter 10 Bangla S2
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 group-title="Indian TV",Colour HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 
 
 # ==================================================
