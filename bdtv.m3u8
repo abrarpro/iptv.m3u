@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 # ==================================================
@@ -166,6 +165,21 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="Entertainment TV",Tapmad
 https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u
 
+#EXTINF:-1 group-title="Entertainment TV",SATV
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Global TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Bangla TV
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",Me TV
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 group-title="Entertainment TV",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
 
 # ==================================================
 # 4. CARTOON TV
@@ -210,6 +224,15 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 
 #EXTINF:-1 group-title="New Channel TV",Tapmad
 https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u
+
+#EXTINF:-1 group-title="New Channel TV",Madina TV (New)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="New Channel TV",Iqra Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="New Channel TV",Quran TV
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 
 
 # ==================================================
@@ -262,6 +285,9 @@ https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 
 #EXTINF:-1 group-title="Indian TV",Zee Bangla HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+
+#EXTINF:-1 group-title="Indian TV",Enter 10 Bangla S2
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 
 # ==================================================
